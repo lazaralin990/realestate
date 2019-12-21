@@ -1,0 +1,7 @@
+.containerAgent {align-content: center; justify-content: center; margin-left: 50px; margin-right: 50px; margin-top: 50px;}
+.agent { text-align: center; margin-top: 100px; align-content: center; justify-content: center;}
+.owner { text-align: center; margin-top: 100px;}
+.big {width: 100%}
+.half1 {width: 50%; float: left; text-align: center;}
+.half2 {width: 50%; float: left; text-align: center;}
+.formAgent {text-align: center; align-content: center; justify-content: center;}

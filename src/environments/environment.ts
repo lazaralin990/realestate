@@ -3,8 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
-};
+  production: false,
+  firebase: {
+    apiKey: 'AIzaSyDGnzViUw_hrhhIPIk3qw_M1r5467XCdUc',
+    authDomain: 'realestateapp-c17b9.firebaseapp.com',
+    databaseURL: 'https://realestateapp-c17b9.firebaseio.com',
+    projectId: 'realestateapp-c17b9',
+    storageBucket: 'realestateapp-c17b9.appspot.com',
+    messagingSenderId: '170820542240',
+    appId: '1:170820542240:web:34f67274fec1f4cb480145'
+    }
+  };
 
 /*
  * For easier debugging in development mode, you can import the following file
